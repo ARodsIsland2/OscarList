@@ -6,19 +6,18 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 
 CATEGORY
 category_id
+name
 
 CEREMONY
 ceremony_id
 number
 year
-film_id_list
 
 FILM
 film_id
 name
 film_year
 ceremony_id
-nomination_id_list
 
 NOMINATION
 nomination_id
