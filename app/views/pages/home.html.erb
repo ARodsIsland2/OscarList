@@ -1,0 +1,9 @@
+<h2>OscarList</h2>
+
+<% @the_oscar_award_csv.each do |row| %>
+
+  <% if row['film'].to_s != '' %>
+    <%= row['film'] %> <br>
+  <% end %>
+  
+<% end %>
