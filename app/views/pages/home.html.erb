@@ -1,9 +1,6 @@
 <h2>OscarList</h2>
 
-<% @the_oscar_award_csv.each do |row| %>
-
-  <% if row['film'].to_s != '' %>
-    <%= row['film'] %> <br>
-  <% end %>
-  
+<h3><%= @deprecated_categories.count() %></h3><br>
+<% @deprecated_categories.each do |category| %>
+    <%= category %> <br>
 <% end %>
