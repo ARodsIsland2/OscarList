@@ -119,6 +119,7 @@ GEM
       mime-types
       mimemagic (~> 0.3.0)
       terrapin (~> 0.6.0)
+    pg (0.18.4)
     puma (3.9.1)
     racc (1.6.0)
     rack (2.2.3)
@@ -225,6 +226,7 @@ DEPENDENCIES
   jquery-rails (= 4.1.1)
   listen (= 3.0.5)
   paperclip (~> 6.0.0)
+  pg (= 0.18.4)
   puma (= 3.9.1)
   rails (= 5.0.2)
   sass-rails (= 5.0.6)
@@ -236,6 +238,9 @@ DEPENDENCIES
   tzinfo-data
   uglifier (= 3.0.0)
   web-console
+
+RUBY VERSION
+   ruby 2.6.3p62
 
 BUNDLED WITH
    1.17.3
