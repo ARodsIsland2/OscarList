@@ -1,6 +1,15 @@
 <h2>OscarList</h2>
 
-<h3><%= @deprecated_categories.count() %></h3><br>
-<% @deprecated_categories.each do |category| %>
-    <%= category %> <br>
+
+<% @ceremony_list.each do |key, value| %>
+    <%= key %>, <%= value %> <br>
 <% end %>
+
+
+<% @academy_defined_categories.each do |category| %>
+    <%= category.name %> <br>
+<% end %>
+
+
+
+
