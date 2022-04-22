@@ -1,6 +1,13 @@
 <h2>OscarList</h2>
 
 <br>
+
+<h3>Films</h3>
+<% @film_list.each do |film| %>
+    <%= film.year %>: <%= film.name %> <br>
+<% end %>
+
+
 <h3>Ceremonies</h3>
 <% @ceremony_list.each do |ceremony| %>
     <%= ceremony.ceremony %>, <%= ceremony.year %> <br>

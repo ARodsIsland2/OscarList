@@ -33,4 +33,16 @@ ceremony_list.each do |key, value|
 end
 
 
+# create films
+film_list = {}
+the_oscar_award_csv.each do |row|
+  film_list[row['film'].to_s()] = {:num=>row['ceremony'], :year=>row['year_film'] }
+end
 
+film_list.each do |key, value|
+  film_name = key
+  film_year = value[:year]
+  #ceremony_id = Ceremony.find_by(value[:num])
+  #Film.create(name: film_name, year: film_year, ceremony_id: ceremony_id)
+  Film.create(name: film_name, year: film_year)
+end
