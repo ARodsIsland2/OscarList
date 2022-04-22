@@ -8,11 +8,17 @@
     <h2><%= ceremony.year %></h2>
 
     <!-- display film list for that year -->
-    <p>
       <% ceremony.films.each do |film| %>
-          <%= film.name %><br>
+        <h3><%= film.name %></h3>
+        
+        <!-- display nomination list for that film -->
+        <ul><small>
+          <% film.nominations.each do |nomination| %>
+            <li><%= nomination.category.name %> (<%= nomination.nominee %>)</li>
+          <% end %>
+        </ul></small>
+        <br>
       <% end %>
-    </p>
   </div>
   
 <% end %>

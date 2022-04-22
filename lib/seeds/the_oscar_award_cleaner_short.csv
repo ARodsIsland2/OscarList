@@ -1,0 +1,491 @@
+year_film,year_ceremony,ceremony,category,name,film,winner
+2018,2019,91,ACTOR,Christian Bale,Vice,False
+2018,2019,91,ACTOR,Bradley Cooper,A Star Is Born,False
+2018,2019,91,ACTOR,Willem Dafoe,At Eternity's Gate,False
+2018,2019,91,ACTOR,Rami Malek,Bohemian Rhapsody,True
+2018,2019,91,ACTOR,Viggo Mortensen,Green Book,False
+2018,2019,91,SUPPORTING ACTOR,Mahershala Ali,Green Book,True
+2018,2019,91,SUPPORTING ACTOR,Adam Driver,BlacKkKlansman,False
+2018,2019,91,SUPPORTING ACTOR,Sam Elliott,A Star Is Born,False
+2018,2019,91,SUPPORTING ACTOR,Richard E. Grant,Can You Ever Forgive Me?,False
+2018,2019,91,SUPPORTING ACTOR,Sam Rockwell,Vice,False
+2018,2019,91,ACTRESS,Yalitza Aparicio,Roma,False
+2018,2019,91,ACTRESS,Glenn Close,The Wife,False
+2018,2019,91,ACTRESS,Olivia Colman,The Favourite,True
+2018,2019,91,ACTRESS,Lady Gaga,A Star Is Born,False
+2018,2019,91,ACTRESS,Melissa McCarthy,Can You Ever Forgive Me?,False
+2018,2019,91,SUPPORTING ACTRESS,Amy Adams,Vice,False
+2018,2019,91,SUPPORTING ACTRESS,Marina de Tavira,Roma,False
+2018,2019,91,SUPPORTING ACTRESS,Regina King,If Beale Street Could Talk,True
+2018,2019,91,SUPPORTING ACTRESS,Emma Stone,The Favourite,False
+2018,2019,91,SUPPORTING ACTRESS,Rachel Weisz,The Favourite,False
+2018,2019,91,ANIMATED FEATURE FILM,"Brad Bird, John Walker and Nicole Paradis Grindle",Incredibles 2,False
+2018,2019,91,ANIMATED FEATURE FILM,"Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson",Isle of Dogs,False
+2018,2019,91,ANIMATED FEATURE FILM,Mamoru Hosoda and Yuichiro Saito,Mirai,False
+2018,2019,91,ANIMATED FEATURE FILM,"Rich Moore, Phil Johnston and Clark Spencer",Ralph Breaks the Internet,False
+2018,2019,91,ANIMATED FEATURE FILM,"Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord and Christopher Miller",Spider-Man: Into the Spider-Verse,True
+2018,2019,91,CINEMATOGRAPHY,Lukasz Zal,Cold War,False
+2018,2019,91,CINEMATOGRAPHY,Robbie Ryan,The Favourite,False
+2018,2019,91,CINEMATOGRAPHY,Caleb Deschanel,Never Look Away,False
+2018,2019,91,CINEMATOGRAPHY,Alfonso Cuarón,Roma,True
+2018,2019,91,CINEMATOGRAPHY,Matthew Libatique,A Star Is Born,False
+2018,2019,91,COSTUME DESIGN,Mary Zophres,The Ballad of Buster Scruggs,False
+2018,2019,91,COSTUME DESIGN,Ruth Carter,Black Panther,True
+2018,2019,91,COSTUME DESIGN,Sandy Powell,The Favourite,False
+2018,2019,91,COSTUME DESIGN,Sandy Powell,Mary Poppins Returns,False
+2018,2019,91,COSTUME DESIGN,Alexandra Byrne,Mary Queen of Scots,False
+2018,2019,91,DIRECTING,Spike Lee,BlacKkKlansman,False
+2018,2019,91,DIRECTING,Pawel Pawlikowski,Cold War,False
+2018,2019,91,DIRECTING,Yorgos Lanthimos,The Favourite,False
+2018,2019,91,DIRECTING,Alfonso Cuarón,Roma,True
+2018,2019,91,DIRECTING,Adam McKay,Vice,False
+2018,2019,91,DOCUMENTARY FEATURE,"Elizabeth Chai Vasarhelyi, Jimmy Chin, Evan Hayes and Shannon Dill",Free Solo,True
+2018,2019,91,DOCUMENTARY FEATURE,"RaMell Ross, Joslyn Barnes and Su Kim","Hale County This Morning, This Evening",False
+2018,2019,91,DOCUMENTARY FEATURE,Bing Liu and Diane Quon,Minding the Gap,False
+2018,2019,91,DOCUMENTARY FEATURE,"Talal Derki, Ansgar Frerich, Eva Kemme and Tobias N. Siebert",Of Fathers and Sons,False
+2018,2019,91,DOCUMENTARY FEATURE,Betsy West and Julie Cohen,RBG,False
+2018,2019,91,DOCUMENTARY SHORT,Ed Perkins and Jonathan Chinn,Black Sheep,False
+2018,2019,91,DOCUMENTARY SHORT,Rob Epstein and Jeffrey Friedman,End Game,False
+2018,2019,91,DOCUMENTARY SHORT,Skye Fitzgerald and Bryn Mooser,Lifeboat,False
+2018,2019,91,DOCUMENTARY SHORT,Marshall Curry,A Night at The Garden,False
+2018,2019,91,DOCUMENTARY SHORT,Rayka Zehtabchi and Melissa Berton,Period. End of Sentence.,True
+2018,2019,91,FILM EDITING,Barry Alexander Brown,BlacKkKlansman,False
+2018,2019,91,FILM EDITING,John Ottman,Bohemian Rhapsody,True
+2018,2019,91,FILM EDITING,Yorgos Mavropsaridis,The Favourite,False
+2018,2019,91,FILM EDITING,Patrick J. Don Vito,Green Book,False
+2018,2019,91,FILM EDITING,Hank Corwin,Vice,False
+2018,2019,91,FOREIGN LANGUAGE FILM,Lebanon,Capernaum,False
+2018,2019,91,FOREIGN LANGUAGE FILM,Poland,Cold War,False
+2018,2019,91,FOREIGN LANGUAGE FILM,Germany,Never Look Away,False
+2018,2019,91,FOREIGN LANGUAGE FILM,Mexico,Roma,True
+2018,2019,91,FOREIGN LANGUAGE FILM,Japan,Shoplifters,False
+2018,2019,91,MAKEUP AND HAIRSTYLING,Göran Lundström and Pamela Goldammer,Border,False
+2018,2019,91,MAKEUP AND HAIRSTYLING,"Jenny Shircore, Marc Pilcher and Jessica Brooks",Mary Queen of Scots,False
+2018,2019,91,MAKEUP AND HAIRSTYLING,"Greg Cannom, Kate Biscoe and Patricia Dehaney",Vice,True
+2018,2019,91,MUSIC (Original Score),Ludwig Goransson,Black Panther,True
+2018,2019,91,MUSIC (Original Score),Terence Blanchard,BlacKkKlansman,False
+2018,2019,91,MUSIC (Original Score),Nicholas Britell,If Beale Street Could Talk,False
+2018,2019,91,MUSIC (Original Score),Alexandre Desplat,Isle of Dogs,False
+2018,2019,91,MUSIC (Original Score),Marc Shaiman,Mary Poppins Returns,False
+2018,2019,91,MUSIC (Original Song),"Music by Kendrick Lamar, Mark ""Sounwave"" Spears and Anthony ""Top Dawg"" Tiffith; Lyric by Kendrick Lamar, SZA and Anthony ""Top Dawg"" Tiffith",Black Panther,False
+2018,2019,91,MUSIC (Original Song),Music and Lyric by Diane Warren,RBG,False
+2018,2019,91,MUSIC (Original Song),Music by Marc Shaiman; Lyric by Scott Wittman and Marc Shaiman,Mary Poppins Returns,False
+2018,2019,91,MUSIC (Original Song),"Music and Lyric by Lady Gaga, Mark Ronson, Anthony Rossomando and Andrew Wyatt",A Star Is Born,True
+2018,2019,91,MUSIC (Original Song),Music and Lyric by Gillian Welch and David Rawlings,The Ballad of Buster Scruggs,False
+2018,2019,91,BEST PICTURE,"Kevin Feige, Producer",Black Panther,False
+2018,2019,91,BEST PICTURE,"Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele and Spike Lee, Producers",BlacKkKlansman,False
+2018,2019,91,BEST PICTURE,"Graham King, Producer",Bohemian Rhapsody,False
+2018,2019,91,BEST PICTURE,"Ceci Dempsey, Ed Guiney, Lee Magiday and Yorgos Lanthimos, Producers",The Favourite,False
+2018,2019,91,BEST PICTURE,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",Green Book,True
+2018,2019,91,BEST PICTURE,"Gabriela Rodríguez and Alfonso Cuarón, Producers",Roma,False
+2018,2019,91,BEST PICTURE,"Bill Gerber, Bradley Cooper and Lynette Howell Taylor, Producers",A Star Is Born,False
+2018,2019,91,BEST PICTURE,"Dede Gardner, Jeremy Kleiner, Adam McKay and Kevin Messick, Producers",Vice,False
+2018,2019,91,PRODUCTION DESIGN,Production Design: Hannah Beachler; Set Decoration: Jay Hart,Black Panther,True
+2018,2019,91,PRODUCTION DESIGN,Production Design: Fiona Crombie; Set Decoration: Alice Felton,The Favourite,False
+2018,2019,91,PRODUCTION DESIGN,Production Design: Nathan Crowley; Set Decoration: Kathy Lucas,First Man,False
+2018,2019,91,PRODUCTION DESIGN,Production Design: John Myhre; Set Decoration: Gordon Sim,Mary Poppins Returns,False
+2018,2019,91,PRODUCTION DESIGN,Production Design: Eugenio Caballero; Set Decoration: Bárbara Enríquez,Roma,False
+2018,2019,91,SHORT FILM (Animated),Alison Snowden and David Fine,Animal Behaviour,False
+2018,2019,91,SHORT FILM (Animated),Domee Shi and Becky Neiman-Cobb,Bao,True
+2018,2019,91,SHORT FILM (Animated),Louise Bagnall and Nuria González Blanco,Late Afternoon,False
+2018,2019,91,SHORT FILM (Animated),Andrew Chesworth and Bobby Pontillas,One Small Step,False
+2018,2019,91,SHORT FILM (Animated),Trevor Jimenez,Weekends,False
+2018,2019,91,SHORT FILM (Live Action),Vincent Lambe and Darren Mahon,Detainment,False
+2018,2019,91,SHORT FILM (Live Action),Jeremy Comte and Maria Gracia Turgeon,Fauve,False
+2018,2019,91,SHORT FILM (Live Action),Marianne Farley and Marie-Hélène Panisset,Marguerite,False
+2018,2019,91,SHORT FILM (Live Action),Rodrigo Sorogoyen and María del Puy Alvarado,Mother,False
+2018,2019,91,SHORT FILM (Live Action),Guy Nattiv and Jaime Ray Newman,Skin,True
+2018,2019,91,SOUND EDITING,Benjamin A. Burtt and Steve Boeddeker,Black Panther,False
+2018,2019,91,SOUND EDITING,John Warhurst and Nina Hartstone,Bohemian Rhapsody,True
+2018,2019,91,SOUND EDITING,Ai-Ling Lee and Mildred Iatrou Morgan,First Man,False
+2018,2019,91,SOUND EDITING,Ethan Van der Ryn and Erik Aadahl,A Quiet Place,False
+2018,2019,91,SOUND EDITING,Sergio Díaz and Skip Lievsay,Roma,False
+2018,2019,91,SOUND MIXING,"Steve Boeddeker, Brandon Proctor and Peter Devlin",Black Panther,False
+2018,2019,91,SOUND MIXING,"Paul Massey, Tim Cavagin and John Casali",Bohemian Rhapsody,True
+2018,2019,91,SOUND MIXING,"Jon Taylor, Frank A. Montaño, Ai-Ling Lee and Mary H. Ellis",First Man,False
+2018,2019,91,SOUND MIXING,"Skip Lievsay, Craig Henighan and José Antonio García",Roma,False
+2018,2019,91,SOUND MIXING,"Tom Ozanich, Dean Zupancic, Jason Ruder and Steve Morrow",A Star Is Born,False
+2018,2019,91,VISUAL EFFECTS,"Dan DeLeeuw, Kelly Port, Russell Earl and Dan Sudick",Avengers: Infinity War,False
+2018,2019,91,VISUAL EFFECTS,"Christopher Lawrence, Michael Eames, Theo Jones and Chris Corbould",Christopher Robin,False
+2018,2019,91,VISUAL EFFECTS,"Paul Lambert, Ian Hunter, Tristan Myles and J.D. Schwalm",First Man,True
+2018,2019,91,VISUAL EFFECTS,"Roger Guyett, Grady Cofer, Matthew E. Butler and David Shirk",Ready Player One,False
+2018,2019,91,VISUAL EFFECTS,"Rob Bredow, Patrick Tubach, Neal Scanlan and Dominic Tuohy",Solo: A Star Wars Story,False
+2018,2019,91,ADAPTED SCREENPLAY,Written by Joel Coen & Ethan Coen,The Ballad of Buster Scruggs,False
+2018,2019,91,ADAPTED SCREENPLAY,Written by Charlie Wachtel & David Rabinowitz and Kevin Willmott & Spike Lee,BlacKkKlansman,True
+2018,2019,91,ADAPTED SCREENPLAY,Screenplay by Nicole Holofcener and Jeff Whitty,Can You Ever Forgive Me?,False
+2018,2019,91,ADAPTED SCREENPLAY,Written for the screen by Barry Jenkins,If Beale Street Could Talk,False
+2018,2019,91,ADAPTED SCREENPLAY,Screenplay by Eric Roth and Bradley Cooper & Will Fetters,A Star Is Born,False
+2018,2019,91,ORIGINAL SCREENPLAY,Written by Deborah Davis and Tony McNamara,The Favourite,False
+2018,2019,91,ORIGINAL SCREENPLAY,Written by Paul Schrader,First Reformed,False
+2018,2019,91,ORIGINAL SCREENPLAY,"Written by Nick Vallelonga, Brian Currie, Peter Farrelly",Green Book,True
+2018,2019,91,ORIGINAL SCREENPLAY,Written by Alfonso Cuarón,Roma,False
+2018,2019,91,ORIGINAL SCREENPLAY,Written by Adam McKay,Vice,False
+2018,2019,91,HONORARY AWARD, Marvin Levy,,True
+2018,2019,91,HONORARY AWARD, Lalo Schifrin,,True
+2018,2019,91,HONORARY AWARD, Cicely Tyson,,True
+2018,2019,91,IRVING G. THALBERG MEMORIAL AWARD,Kathleen Kennedy and Frank Marshall,,True
+2019,2020,92,ACTOR,Antonio Banderas,Pain and Glory,False
+2019,2020,92,ACTOR,Leonardo DiCaprio,Once upon a Time...in Hollywood,False
+2019,2020,92,ACTOR,Adam Driver,Marriage Story,False
+2019,2020,92,ACTOR,Joaquin Phoenix,Joker,True
+2019,2020,92,ACTOR,Jonathan Pryce,The Two Popes,False
+2019,2020,92,SUPPORTING ACTOR,Tom Hanks,A Beautiful Day in the Neighborhood,False
+2019,2020,92,SUPPORTING ACTOR,Anthony Hopkins,The Two Popes,False
+2019,2020,92,SUPPORTING ACTOR,Al Pacino,The Irishman,False
+2019,2020,92,SUPPORTING ACTOR,Joe Pesci,The Irishman,False
+2019,2020,92,SUPPORTING ACTOR,Brad Pitt,Once upon a Time...in Hollywood,True
+2019,2020,92,ACTRESS,Cynthia Erivo,Harriet,False
+2019,2020,92,ACTRESS,Scarlett Johansson,Marriage Story,False
+2019,2020,92,ACTRESS,Saoirse Ronan,Little Women,False
+2019,2020,92,ACTRESS,Charlize Theron,Bombshell,False
+2019,2020,92,ACTRESS,Renée Zellweger,Judy,True
+2019,2020,92,SUPPORTING ACTRESS,Kathy Bates,Richard Jewell,False
+2019,2020,92,SUPPORTING ACTRESS,Laura Dern,Marriage Story,True
+2019,2020,92,SUPPORTING ACTRESS,Scarlett Johansson,Jojo Rabbit,False
+2019,2020,92,SUPPORTING ACTRESS,Florence Pugh,Little Women,False
+2019,2020,92,SUPPORTING ACTRESS,Margot Robbie,Bombshell,False
+2019,2020,92,ANIMATED FEATURE FILM,"Dean DeBlois, Bradford Lewis and Bonnie Arnold",How to Train Your Dragon: The Hidden World,False
+2019,2020,92,ANIMATED FEATURE FILM,Jérémy Clapin and Marc du Pontavice,I Lost My Body,False
+2019,2020,92,ANIMATED FEATURE FILM,"Sergio Pablos, Jinko Gotoh and Marisa Román",Klaus,False
+2019,2020,92,ANIMATED FEATURE FILM,"Chris Butler, Arianne Sutner and Travis Knight",Missing Link,False
+2019,2020,92,ANIMATED FEATURE FILM,"Josh Cooley, Mark Nielsen and Jonas Rivera",Toy Story 4,True
+2019,2020,92,CINEMATOGRAPHY,Rodrigo Prieto,The Irishman,False
+2019,2020,92,CINEMATOGRAPHY,Lawrence Sher,Joker,False
+2019,2020,92,CINEMATOGRAPHY,Jarin Blaschke,The Lighthouse,False
+2019,2020,92,CINEMATOGRAPHY,Roger Deakins,1917,True
+2019,2020,92,CINEMATOGRAPHY,Robert Richardson,Once upon a Time...in Hollywood,False
+2019,2020,92,COSTUME DESIGN,Sandy Powell and Christopher Peterson,The Irishman,False
+2019,2020,92,COSTUME DESIGN,Mayes C. Rubeo,Jojo Rabbit,False
+2019,2020,92,COSTUME DESIGN,Mark Bridges,Joker,False
+2019,2020,92,COSTUME DESIGN,Jacqueline Durran,Little Women,True
+2019,2020,92,COSTUME DESIGN,Arianne Phillips,Once upon a Time...in Hollywood,False
+2019,2020,92,DIRECTING,Martin Scorsese,The Irishman,False
+2019,2020,92,DIRECTING,Todd Phillips,Joker,False
+2019,2020,92,DIRECTING,Sam Mendes,1917,False
+2019,2020,92,DIRECTING,Quentin Tarantino,Once upon a Time...in Hollywood,False
+2019,2020,92,DIRECTING,Bong Joon Ho,Parasite,True
+2019,2020,92,DOCUMENTARY FEATURE,"Steven Bognar, Julia Reichert and Jeff Reichert",American Factory,True
+2019,2020,92,DOCUMENTARY FEATURE,"Feras Fayyad, Kirstine Barfod and Sigrid Dyekjær",The Cave,False
+2019,2020,92,DOCUMENTARY FEATURE,"Petra Costa, Joanna Natasegara, Shane Boris and Tiago Pavan",The Edge of Democracy,False
+2019,2020,92,DOCUMENTARY FEATURE,Waad al-Kateab and Edward Watts,For Sama,False
+2019,2020,92,DOCUMENTARY FEATURE,"Ljubo Stefanov, Tamara Kotevska and Atanas Georgiev",Honeyland,False
+2019,2020,92,DOCUMENTARY SHORT,Yi Seung-Jun and Gary Byung-Seok Kam,In the Absence,False
+2019,2020,92,DOCUMENTARY SHORT,Carol Dysinger and Elena Andreicheva,Learning to Skateboard in a Warzone (If You're a Girl),True
+2019,2020,92,DOCUMENTARY SHORT,John Haptas and Kristine Samuelson,Life Overtakes Me,False
+2019,2020,92,DOCUMENTARY SHORT,Smriti Mundhra and Sami Khan,St. Louis Superman,False
+2019,2020,92,DOCUMENTARY SHORT,Laura Nix and Colette Sandstedt,Walk Run Cha-Cha,False
+2019,2020,92,FILM EDITING,Michael McCusker and Andrew Buckland,Ford v Ferrari,True
+2019,2020,92,FILM EDITING,Thelma Schoonmaker,The Irishman,False
+2019,2020,92,FILM EDITING,Tom Eagles,Jojo Rabbit,False
+2019,2020,92,FILM EDITING,Jeff Groth,Joker,False
+2019,2020,92,FILM EDITING,Yang Jinmo,Parasite,False
+2019,2020,92,INTERNATIONAL FEATURE FILM,Poland,Corpus Christi,False
+2019,2020,92,INTERNATIONAL FEATURE FILM,North Macedonia,Honeyland,False
+2019,2020,92,INTERNATIONAL FEATURE FILM,France,Les Misérables,False
+2019,2020,92,INTERNATIONAL FEATURE FILM,Spain,Pain and Glory,False
+2019,2020,92,INTERNATIONAL FEATURE FILM,South Korea,Parasite,True
+2019,2020,92,MAKEUP AND HAIRSTYLING,"Kazu Hiro, Anne Morgan and Vivian Baker",Bombshell,True
+2019,2020,92,MAKEUP AND HAIRSTYLING,Nicki Ledermann and Kay Georgiou,Joker,False
+2019,2020,92,MAKEUP AND HAIRSTYLING,Jeremy Woodhead,Judy,False
+2019,2020,92,MAKEUP AND HAIRSTYLING,"Paul Gooch, Arjen Tuiten and David White",Maleficent: Mistress of Evil,False
+2019,2020,92,MAKEUP AND HAIRSTYLING,"Naomi Donne, Tristan Versluis and Rebecca Cole",1917,False
+2019,2020,92,MUSIC (Original Score),Hildur Guðnadóttir,Joker,True
+2019,2020,92,MUSIC (Original Score),Alexandre Desplat,Little Women,False
+2019,2020,92,MUSIC (Original Score),Randy Newman,Marriage Story,False
+2019,2020,92,MUSIC (Original Score),Thomas Newman,1917,False
+2019,2020,92,MUSIC (Original Score),John Williams,Star Wars: The Rise of Skywalker,False
+2019,2020,92,MUSIC (Original Song),Music and Lyric by Randy Newman,Toy Story 4,False
+2019,2020,92,MUSIC (Original Song),Music by Elton John; Lyric by Bernie Taupin,Rocketman,True
+2019,2020,92,MUSIC (Original Song),Music and Lyric by Diane Warren,Breakthrough,False
+2019,2020,92,MUSIC (Original Song),Music and Lyric by Kristen Anderson-Lopez and Robert Lopez,Frozen II,False
+2019,2020,92,MUSIC (Original Song),Music and Lyric by Joshuah Brian Campbell and Cynthia Erivo,Harriet,False
+2019,2020,92,BEST PICTURE,"Peter Chernin, Jenno Topping and James Mangold, Producers",Ford v Ferrari,False
+2019,2020,92,BEST PICTURE,"Martin Scorsese, Robert De Niro, Jane Rosenthal and Emma Tillinger Koskoff, Producers",The Irishman,False
+2019,2020,92,BEST PICTURE,"Carthew Neal, Taika Waititi and Chelsea Winstanley, Producers",Jojo Rabbit,False
+2019,2020,92,BEST PICTURE,"Todd Phillips, Bradley Cooper and Emma Tillinger Koskoff, Producers",Joker,False
+2019,2020,92,BEST PICTURE,"Amy Pascal, Producer",Little Women,False
+2019,2020,92,BEST PICTURE,"Noah Baumbach and David Heyman, Producers",Marriage Story,False
+2019,2020,92,BEST PICTURE,"Sam Mendes, Pippa Harris, Jayne-Ann Tenggren and Callum McDougall, Producers",1917,False
+2019,2020,92,BEST PICTURE,"David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",Once upon a Time...in Hollywood,False
+2019,2020,92,BEST PICTURE,"Kwak Sin Ae and Bong Joon Ho, Producers",Parasite,True
+2019,2020,92,PRODUCTION DESIGN,Production Design: Bob Shaw; Set Decoration: Regina Graves,The Irishman,False
+2019,2020,92,PRODUCTION DESIGN,Production Design: Ra Vincent; Set Decoration: Nora Sopková,Jojo Rabbit,False
+2019,2020,92,PRODUCTION DESIGN,Production Design: Dennis Gassner; Set Decoration: Lee Sandales,1917,False
+2019,2020,92,PRODUCTION DESIGN,Production Design: Barbara Ling; Set Decoration: Nancy Haigh,Once upon a Time...in Hollywood,True
+2019,2020,92,PRODUCTION DESIGN,Production Design: Lee Ha Jun; Set Decoration: Cho Won Woo,Parasite,False
+2019,2020,92,SHORT FILM (Animated),Daria Kashcheeva,Dcera (Daughter),False
+2019,2020,92,SHORT FILM (Animated),Matthew A. Cherry and Karen Rupert Toliver,Hair Love,True
+2019,2020,92,SHORT FILM (Animated),Rosana Sullivan and Kathryn Hendrickson,Kitbull,False
+2019,2020,92,SHORT FILM (Animated),Bruno Collet and Jean-François Le Corre,Memorable,False
+2019,2020,92,SHORT FILM (Animated),Siqi Song,Sister,False
+2019,2020,92,SHORT FILM (Live Action),Meryam Joobeur and Maria Gracia Turgeon,Brotherhood,False
+2019,2020,92,SHORT FILM (Live Action),Yves Piat and Damien Megherbi,Nefta Football Club,False
+2019,2020,92,SHORT FILM (Live Action),Marshall Curry,The Neighbors' Window,True
+2019,2020,92,SHORT FILM (Live Action),Bryan Buckley and Matt Lefebvre,Saria,False
+2019,2020,92,SHORT FILM (Live Action),Delphine Girard,A Sister,False
+2019,2020,92,SOUND EDITING,Donald Sylvester,Ford v Ferrari,True
+2019,2020,92,SOUND EDITING,Alan Robert Murray,Joker,False
+2019,2020,92,SOUND EDITING,Oliver Tarney and Rachael Tate,1917,False
+2019,2020,92,SOUND EDITING,Wylie Stateman,Once upon a Time...in Hollywood,False
+2019,2020,92,SOUND EDITING,Matthew Wood and David Acord,Star Wars: The Rise of Skywalker,False
+2019,2020,92,SOUND MIXING,"Gary Rydstrom, Tom Johnson and Mark Ulano",Ad Astra,False
+2019,2020,92,SOUND MIXING,"Paul Massey, David Giammarco and Steven A. Morrow",Ford v Ferrari,False
+2019,2020,92,SOUND MIXING,"Tom Ozanich, Dean Zupancic and Tod Maitland",Joker,False
+2019,2020,92,SOUND MIXING,Mark Taylor and Stuart Wilson,1917,True
+2019,2020,92,SOUND MIXING,"Michael Minkler, Christian P. Minkler and Mark Ulano",Once upon a Time...in Hollywood,False
+2019,2020,92,VISUAL EFFECTS,"Dan DeLeeuw, Russell Earl, Matt Aitken and Dan Sudick",Avengers: Endgame,False
+2019,2020,92,VISUAL EFFECTS,"Pablo Helman, Leandro Estebecorena, Nelson Sepulveda-Fauser and Stephane Grabli",The Irishman,False
+2019,2020,92,VISUAL EFFECTS,"Robert Legato, Adam Valdez, Andrew R. Jones and Elliot Newman",The Lion King,False
+2019,2020,92,VISUAL EFFECTS,"Guillaume Rocheron, Greg Butler and Dominic Tuohy",1917,True
+2019,2020,92,VISUAL EFFECTS,"Roger Guyett, Neal Scanlan, Patrick Tubach and Dominic Tuohy",Star Wars: The Rise of Skywalker,False
+2019,2020,92,ADAPTED SCREENPLAY,Screenplay by Steven Zaillian,The Irishman,False
+2019,2020,92,ADAPTED SCREENPLAY,Screenplay by Taika Waititi,Jojo Rabbit,True
+2019,2020,92,ADAPTED SCREENPLAY,Written by Todd Phillips & Scott Silver,Joker,False
+2019,2020,92,ADAPTED SCREENPLAY,Written for the screen by Greta Gerwig,Little Women,False
+2019,2020,92,ADAPTED SCREENPLAY,Written by Anthony McCarten,The Two Popes,False
+2019,2020,92,ORIGINAL SCREENPLAY,Written by Rian Johnson,Knives Out,False
+2019,2020,92,ORIGINAL SCREENPLAY,Written by Noah Baumbach,Marriage Story,False
+2019,2020,92,ORIGINAL SCREENPLAY,Written by Sam Mendes & Krysty Wilson-Cairns,1917,False
+2019,2020,92,ORIGINAL SCREENPLAY,Written by Quentin Tarantino,Once upon a Time...in Hollywood,False
+2019,2020,92,ORIGINAL SCREENPLAY,"Screenplay by Bong Joon Ho, Han Jin Won; Story by Bong Joon Ho",Parasite,True
+2019,2020,92,JEAN HERSHOLT HUMANITARIAN AWARD,Geena Davis,,True
+2019,2020,92,HONORARY AWARD, David Lynch,,True
+2019,2020,92,HONORARY AWARD, Wes Studi,,True
+2019,2020,92,HONORARY AWARD, Lina Wertmüller,,True
+2020,2021,93,ACTOR,Riz Ahmed,Sound of Metal,False
+2020,2021,93,ACTOR,Chadwick Boseman,Ma Rainey's Black Bottom,False
+2020,2021,93,ACTOR,Anthony Hopkins,The Father,True
+2020,2021,93,ACTOR,Gary Oldman,Mank,False
+2020,2021,93,ACTOR,Steven Yeun,Minari,False
+2020,2021,93,SUPPORTING ACTOR,Sacha Baron Cohen,The Trial of the Chicago 7,False
+2020,2021,93,SUPPORTING ACTOR,Daniel Kaluuya,Judas and the Black Messiah,True
+2020,2021,93,SUPPORTING ACTOR,"Leslie Odom, Jr. ",One Night in Miami...,False
+2020,2021,93,SUPPORTING ACTOR,Paul Raci,Sound of Metal,False
+2020,2021,93,SUPPORTING ACTOR,Lakeith Stanfield,Judas and the Black Messiah,False
+2020,2021,93,ACTRESS,Viola Davis,Ma Rainey's Black Bottom,False
+2020,2021,93,ACTRESS,Andra Day,The United States vs. Billie Holiday,False
+2020,2021,93,ACTRESS,Vanessa Kirby,Pieces of a Woman,False
+2020,2021,93,ACTRESS,Frances McDormand,Nomadland,True
+2020,2021,93,ACTRESS,Carey Mulligan,Promising Young Woman,False
+2020,2021,93,SUPPORTING ACTRESS,Maria Bakalova,Borat Subsequent Moviefilm,False
+2020,2021,93,SUPPORTING ACTRESS,Glenn Close,Hillbilly Elegy,False
+2020,2021,93,SUPPORTING ACTRESS,Olivia Colman,The Father,False
+2020,2021,93,SUPPORTING ACTRESS,Amanda Seyfried,Mank,False
+2020,2021,93,SUPPORTING ACTRESS,Yuh-Jung Youn,Minari,True
+2020,2021,93,ANIMATED FEATURE FILM,Dan Scanlon and Kori Rae,Onward,False
+2020,2021,93,ANIMATED FEATURE FILM,"Glen Keane, Gennie Rim and Peilin Chou",Over the Moon,False
+2020,2021,93,ANIMATED FEATURE FILM,"Richard Phelan, Will Becher and Paul Kewley",A Shaun the Sheep Movie: Farmageddon,False
+2020,2021,93,ANIMATED FEATURE FILM,Pete Docter and Dana Murray,Soul,True
+2020,2021,93,ANIMATED FEATURE FILM,"Tomm Moore, Ross Stewart, Paul Young and Stéphan Roelants",Wolfwalkers,False
+2020,2021,93,CINEMATOGRAPHY,Judas and the Black Messiah,Sean Bobbitt,False
+2020,2021,93,CINEMATOGRAPHY,Mank,Erik Messerschmidt,True
+2020,2021,93,CINEMATOGRAPHY,News of the World,Dariusz Wolski,False
+2020,2021,93,CINEMATOGRAPHY,Nomadland,Joshua James Richards,False
+2020,2021,93,CINEMATOGRAPHY,The Trial of the Chicago 7,Phedon Papamichael,False
+2020,2021,93,COSTUME DESIGN,Alexandra Byrne,Emma,False
+2020,2021,93,COSTUME DESIGN,Ann Roth,Ma Rainey's Black Bottom,True
+2020,2021,93,COSTUME DESIGN,Trish Summerville,Mank,False
+2020,2021,93,COSTUME DESIGN,Bina Daigeler,Mulan,False
+2020,2021,93,COSTUME DESIGN,Massimo Cantini Parrini,Pinocchio,False
+2020,2021,93,DIRECTING,Thomas Vinterberg,Another Round,False
+2020,2021,93,DIRECTING,David Fincher,Mank,False
+2020,2021,93,DIRECTING,Lee Isaac Chung,Minari,False
+2020,2021,93,DIRECTING,Chloé Zhao,Nomadland,True
+2020,2021,93,DIRECTING,Emerald Fennell,Promising Young Woman,False
+2020,2021,93,DOCUMENTARY FEATURE,Alexander Nanau and Bianca Oana,Collective,False
+2020,2021,93,DOCUMENTARY FEATURE,"Nicole Newnham, Jim LeBrecht and Sara Bolder",Crip Camp,False
+2020,2021,93,DOCUMENTARY FEATURE,"Maite Alberdi and Marcela Santibáñez",The Mole Agent,False
+2020,2021,93,DOCUMENTARY FEATURE,"Pippa Ehrlich, James Reed and Craig Foster ",My Octopus Teacher,True
+2020,2021,93,DOCUMENTARY FEATURE,"Garrett Bradley, Lauren Domino and Kellen Quinn",Time,False
+2020,2021,93,DOCUMENTARY SHORT,Anthony Giacchino and Alice Doyard,Colette,True
+2020,2021,93,DOCUMENTARY SHORT,Ben Proudfoot and Kris Bowers,A Concerto Is a Conversation,False
+2020,2021,93,DOCUMENTARY SHORT,Anders Hammer and Charlotte Cook,Do Not Split,False
+2020,2021,93,DOCUMENTARY SHORT,Skye Fitzgerald and Michael Scheuerman,Hunger Ward,False
+2020,2021,93,DOCUMENTARY SHORT,Sophia Nahli Allison and Janice Duncan,A Love Song for Latasha,False
+2020,2021,93,FILM EDITING,Yorgos Lamprinos,The Father,False
+2020,2021,93,FILM EDITING,Chloé Zhao,Nomadland,False
+2020,2021,93,FILM EDITING,Frédéric Thoraval,Promising Young Woman,False
+2020,2021,93,FILM EDITING,Mikkel E. G. Nielsen,Sound of Metal,True
+2020,2021,93,FILM EDITING,Alan Baumgarten,The Trial of the Chicago 7,False
+2020,2021,93,INTERNATIONAL FEATURE FILM,Denmark,Another Round,True
+2020,2021,93,INTERNATIONAL FEATURE FILM,Hong Kong,Better Days,False
+2020,2021,93,INTERNATIONAL FEATURE FILM,Romania,Collective,False
+2020,2021,93,INTERNATIONAL FEATURE FILM,Tunisia,The Man Who Sold His Skin,False
+2020,2021,93,INTERNATIONAL FEATURE FILM,Bosnia and Herzegovina,"Quo Vadis, Aida?",FALSE
+2020,2021,93,MAKEUP AND HAIRSTYLING,"Marese Langan, Laura Allen and Claudia Stolze",Emma,False
+2020,2021,93,MAKEUP AND HAIRSTYLING,"Eryn Krueger Mekash, Matthew Mungle and Patricia Dehaney",Hillbilly Elegy,False
+2020,2021,93,MAKEUP AND HAIRSTYLING,"Sergio Lopez-Rivera, Mia Neal and Jamika Wilson",Ma Rainey's Black Bottom,True
+2020,2021,93,MAKEUP AND HAIRSTYLING,"Gigi Williams, Kimberley Spiteri and Colleen LaBaff",Mank,False
+2020,2021,93,MAKEUP AND HAIRSTYLING,"Mark Coulier, Dalia Colli and Francesco Pegoretti",Pinocchio,False
+2020,2021,93,MUSIC (Original Score),Terence Blanchard,Da 5 Bloods,False
+2020,2021,93,MUSIC (Original Score),Trent Reznor and Atticus Ross,Mank,False
+2020,2021,93,MUSIC (Original Score),Emile Mosseri,Minari,False
+2020,2021,93,MUSIC (Original Score),James Newton Howard,News of the World,False
+2020,2021,93,MUSIC (Original Score),"Trent Reznor, Atticus Ross and Jon Batiste",Soul,True
+2020,2021,93,MUSIC (Original Song),Fight For You: Music by H.E.R. and Dernst Emile II; Lyric by H.E.R. and Tiara Thomas,Judas and the Black Messiah,True
+2020,2021,93,MUSIC (Original Song),Hear My Voice: Music by Daniel Pemberton; Lyric by Daniel Pemberton and Celeste Waite,The Trial of the Chicago 7,False
+2020,2021,93,MUSIC (Original Song),"'Husavik': Music and Lyric by Savan Kotecha, Fat Max Gsus and Rickard Göransson",Eurovision Song Contest: The Story of Fire Saga,False
+2020,2021,93,MUSIC (Original Song),Io Sì (Seen): Music by Diane Warren; Lyric by Diane Warren and Laura Pausini,The Life Ahead (La Vita Davanti a Se),FALSE
+2020,2021,93,MUSIC (Original Song),"'Speak Now': Music and Lyric by Leslie Odom, Jr. and Sam Ashworth",One Night in Miami...,FALSE
+2020,2021,93,BEST PICTURE,"David Parfitt, Jean-Louis Livi and Philippe Carcassonne, Producers",The Father,False
+2020,2021,93,BEST PICTURE,"Shaka King, Charles D. King and Ryan Coogler, Producers",Judas and the Black Messiah,False
+2020,2021,93,BEST PICTURE,"Ceán Chaffin, Eric Roth and Douglas Urbanski, Producers",Mank,False
+2020,2021,93,BEST PICTURE,"Christina Oh, Producer",Minari,False
+2020,2021,93,BEST PICTURE,"Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Producers ",Nomadland,True
+2020,2021,93,BEST PICTURE,"Ben Browning, Ashley Fox, Emerald Fennell and Josey McNamara, Producers",Promising Young Woman,False
+2020,2021,93,BEST PICTURE,"Bert Hamelinck and Sacha Ben Harroche, Producers",Sound of Metal,False
+2020,2021,93,BEST PICTURE,"Marc Platt and Stuart Besser, Producers",The Trial of the Chicago 7,False
+2020,2021,93,PRODUCTION DESIGN,Production Design: Peter Francis; Set Decoration: Cathy Featherstone,The Father,False
+2020,2021,93,PRODUCTION DESIGN,Production Design: Mark Ricker; Set Decoration: Karen O'Hara and Diana Stoughton,Ma Rainey's Black Bottom,False
+2020,2021,93,PRODUCTION DESIGN,Production Design: Donald Graham Burt; Set Decoration: Jan Pascale,Mank,True
+2020,2021,93,PRODUCTION DESIGN,Production Design: David Crank; Set Decoration: Elizabeth Keenan,News of the World,False
+2020,2021,93,PRODUCTION DESIGN,Production Design: Nathan Crowley; Set Decoration: Kathy Lucas,Tenet,False
+2020,2021,93,SHORT FILM (Animated),Madeline Sharafian and Michael Capbarat,Burrow,False
+2020,2021,93,SHORT FILM (Animated),Adrien Mérigeau and Amaury Ovise,Genius Loci,False
+2020,2021,93,SHORT FILM (Animated),Will McCormack and Michael Govier,If Anything Happens I Love You,True
+2020,2021,93,SHORT FILM (Animated),Erick Oh,Opera,False
+2020,2021,93,SHORT FILM (Animated),Gísli Darri Halldórsson and Arnar Gunnarsson,Yes-People,False
+2020,2021,93,SHORT FILM (Live Action),Doug Roland and Susan Ruzenski,Feeling Through,False
+2020,2021,93,SHORT FILM (Live Action),Elvira Lind and Sofia Sondervan,The Letter Room,False
+2020,2021,93,SHORT FILM (Live Action),Farah Nabulsi and Ossama Bawardi,The Present,False
+2020,2021,93,SHORT FILM (Live Action),Travon Free and Martin Desmond Roe,Two Distant Strangers,True
+2020,2021,93,SHORT FILM (Live Action),Tomer Shushan and Shira Hochman,White Eye,False
+2020,2021,93,SOUND,"Warren Shaw, Michael Minkler, Beau Borders and David Wyman",Greyhound,False
+2020,2021,93,SOUND,"Ren Klyce, Jeremy Molod, David Parker, Nathan Nance and Drew Kunin",Mank,False
+2020,2021,93,SOUND,"Oliver Tarney, Mike Prestwood Smith, William Miller and John Pritchett",News of the World,False
+2020,2021,93,SOUND,"Ren Klyce, Coya Elliott and David Parker",Soul,Nominee
+2020,2021,93,SOUND,"Nicolas Becker, Jaime Baksht, Michellee Couttolenc, Carlos Cortés and Phillip Bladh",Sound of Metal,True
+2020,2021,93,VISUAL EFFECTS,"Matt Sloan, Genevieve Camilleri, Matt Everitt and Brian Cox",Love and Monsters,False
+2020,2021,93,VISUAL EFFECTS,"Matthew Kasmir, Christopher Lawrence, Max Solomon and David Watkins",The Midnight Sky,False
+2020,2021,93,VISUAL EFFECTS,"Sean Faden, Anders Langlands, Seth Maury and Steve Ingram",Mulan,False
+2020,2021,93,VISUAL EFFECTS,"Nick Davis, Greg Fisher, Ben Jones and Santiago Colomo Martinez",The One and Only Ivan,False
+2020,2021,93,VISUAL EFFECTS,"Andrew Jackson, David Lee, Andrew Lockley and Scott Fisher ",Tenet,True
+2020,2021,93,ADAPTED SCREENPLAY,Screenplay by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Peter Baynham & Erica Rivinoja & Dan Mazer & Jena Friedman & Lee Kern; Story by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Nina Pedrad,Borat Subsequent Moviefilm,False
+2020,2021,93,ADAPTED SCREENPLAY,Screenplay by Christopher Hampton and Florian Zeller,The Father,True
+2020,2021,93,ADAPTED SCREENPLAY,Written for the screen by Chloé Zhao,Nomadland,False
+2020,2021,93,ADAPTED SCREENPLAY,Screenplay by Kemp Powers,One Night in Miami...,FALSE
+2020,2021,93,ADAPTED SCREENPLAY,Written for the screen by Ramin Bahrani,The White Tiger,False
+2020,2021,93,ORIGINAL SCREENPLAY,Screenplay by Will Berson & Shaka King; Story by Will Berson & Shaka King and Kenny Lucas & Keith Lucas,Judas and the Black Messiah,False
+2020,2021,93,ORIGINAL SCREENPLAY,Written by Lee Isaac Chung,Minari,False
+2020,2021,93,ORIGINAL SCREENPLAY,Written by Emerald Fennell,Promising Young Woman,True
+2020,2021,93,ORIGINAL SCREENPLAY,Screenplay by Darius Marder & Abraham Marder; Story by Darius Marder & Derek Cianfrance,Sound of Metal,False
+2020,2021,93,ORIGINAL SCREENPLAY,Written by Aaron Sorkin,The Trial of the Chicago 7,False
+2021,2022,94,ACTOR,Javier Bardem,Being the Ricardos,False
+2021,2022,94,ACTOR,Benedict Cumberbatch,The Power of the Dog,False
+2021,2022,94,ACTOR,Andrew Garfield,"tick, tick...BOOM!",FALSE
+2021,2022,94,ACTOR,Will Smith,King Richard,True
+2021,2022,94,ACTOR,Denzel Washington,The Tragedy of Macbeth,False
+2021,2022,94,SUPPORTING ACTOR,Ciarán Hinds,Belfast,False
+2021,2022,94,SUPPORTING ACTOR,Troy Kotsur,CODA,True
+2021,2022,94,SUPPORTING ACTOR,Jesse Plemons,The Power of the Dog,False
+2021,2022,94,SUPPORTING ACTOR,J.K. Simmons,Being the Ricardos,False
+2021,2022,94,SUPPORTING ACTOR,Kodi Smit-McPhee,The Power of the Dog,False
+2021,2022,94,ACTRESS,Jessica Chastain,The Eyes of Tammy Faye,True
+2021,2022,94,ACTRESS,Olivia Colman,The Lost Daughter,False
+2021,2022,94,ACTRESS,Penélope Cruz,Parallel Mothers,False
+2021,2022,94,ACTRESS,Nicole Kidman,Being the Ricardos,False
+2021,2022,94,ACTRESS,Kristen Stewart,Spencer,False
+2021,2022,94,SUPPORTING ACTRESS,Jessie Buckley,The Lost Daughter,False
+2021,2022,94,SUPPORTING ACTRESS,Ariana DeBose,West Side Story,True
+2021,2022,94,SUPPORTING ACTRESS,Judi Dench,Belfast,False
+2021,2022,94,SUPPORTING ACTRESS,Kirsten Dunst,The Power of the Dog,False
+2021,2022,94,SUPPORTING ACTRESS,Aunjanue Ellis,King Richard,False
+2021,2022,94,ANIMATED FEATURE FILM,"Jared Bush, Byron Howard, Yvett Merino and Clark Spencer",Encanto,True
+2021,2022,94,ANIMATED FEATURE FILM,"Jonas Poher Rasmussen, Monica Hellström, Signe Byrge Sørensen and Charlotte De La Gournerie",Flee,False
+2021,2022,94,ANIMATED FEATURE FILM,Enrico Casarosa and Andrea Warren,Luca,False
+2021,2022,94,ANIMATED FEATURE FILM,"Mike Rianda, Phil Lord, Christopher Miller and Kurt Albrecht",The Mitchells vs. the Machines,False
+2021,2022,94,ANIMATED FEATURE FILM,"Don Hall, Carlos López Estrada, Osnat Shurer and Peter Del Vecho",Raya and the Last Dragon,False
+2021,2022,94,CINEMATOGRAPHY,Greig Fraser,Dune,True
+2021,2022,94,CINEMATOGRAPHY,Dan Laustsen,Nightmare Alley,False
+2021,2022,94,CINEMATOGRAPHY,Ari Wegner,The Power of the Dog,False
+2021,2022,94,CINEMATOGRAPHY,Bruno Delbonnel,The Tragedy of Macbeth,False
+2021,2022,94,CINEMATOGRAPHY,Janusz Kaminski,West Side Story,False
+2021,2022,94,COSTUME DESIGN,Jenny Beavan,Cruella,True
+2021,2022,94,COSTUME DESIGN,Massimo Cantini Parrini and Jacqueline Durran,Cyrano,False
+2021,2022,94,COSTUME DESIGN,Jacqueline West and Robert Morgan,Dune,False
+2021,2022,94,COSTUME DESIGN,Luis Sequeira,Nightmare Alley,False
+2021,2022,94,COSTUME DESIGN,Paul Tazewell,West Side Story,False
+2021,2022,94,DIRECTING,Kenneth Branagh,Belfast,False
+2021,2022,94,DIRECTING,Ryusuke Hamaguchi,Drive My Car,False
+2021,2022,94,DIRECTING,Paul Thomas Anderson,Licorice Pizza,False
+2021,2022,94,DIRECTING,Jane Campion,The Power of the Dog,True
+2021,2022,94,DIRECTING,Steven Spielberg,West Side Story,False
+2021,2022,94,DOCUMENTARY FEATURE,"Jessica Kingdon, Kira Simon-Kennedy and Nathan Truesdell",Ascension,False
+2021,2022,94,DOCUMENTARY FEATURE,"Jonas Poher Rasmussen, Monica Hellström, Signe Byrge Sørensen and Charlotte De La Gournerie",Flee,False
+2021,2022,94,DOCUMENTARY FEATURE,"Ahmir 'Questlove' Thompson, Joseph Patel, Robert Fyvolent and David Dinerstein","Summer of Soul (...Or, When the Revolution Could Not Be Televised)",TRUE
+2021,2022,94,DOCUMENTARY FEATURE,Rintu Thomas and Sushmit Ghosh,Writing with Fire,False
+2021,2022,94,DOCUMENTARY SHORT,Matt Ogens and Geoff McLean,Audible,False
+2021,2022,94,DOCUMENTARY SHORT,Pedro Kos and Jon Shenk,Lead Me Home,False
+2021,2022,94,DOCUMENTARY SHORT,Ben Proudfoot,The Queen of Basketball,True
+2021,2022,94,DOCUMENTARY SHORT,Elizabeth Mirzaei and Gulistan Mirzaei,Three Songs for Benazir,False
+2021,2022,94,DOCUMENTARY SHORT,Jay Rosenblatt,When We Were Bullies,False
+2021,2022,94,FILM EDITING,Hank Corwin,Don't Look Up,False
+2021,2022,94,FILM EDITING,Joe Walker,Dune,True
+2021,2022,94,FILM EDITING,Pamela Martin,King Richard,False
+2021,2022,94,FILM EDITING,Peter Sciberras,The Power of the Dog,False
+2021,2022,94,FILM EDITING,Myron Kerstein and Andrew Weisblum,"tick, tick...BOOM!",FALSE
+2021,2022,94,INTERNATIONAL FEATURE FILM,Japan,Drive My Car,True
+2021,2022,94,INTERNATIONAL FEATURE FILM,Denmark,Flee,False
+2021,2022,94,INTERNATIONAL FEATURE FILM,Italy,The Hand of God,False
+2021,2022,94,INTERNATIONAL FEATURE FILM,Bhutan,Lunana: A Yak in the Classroom,False
+2021,2022,94,INTERNATIONAL FEATURE FILM,Norway,The Worst Person in the World,False
+2021,2022,94,MAKEUP AND HAIRSTYLING,"Mike Marino, Stacey Morris and Carla Farmer",Coming 2 America,False
+2021,2022,94,MAKEUP AND HAIRSTYLING,"Nadia Stacey, Naomi Donne and Julia Vernon",Cruella,False
+2021,2022,94,MAKEUP AND HAIRSTYLING,"Donald Mowat, Love Larson and Eva von Bahr",Dune,False
+2021,2022,94,MAKEUP AND HAIRSTYLING,"Linda Dowds, Stephanie Ingram and Justin Raleigh",The Eyes of Tammy Faye,True
+2021,2022,94,MAKEUP AND HAIRSTYLING,"Göran Lundström, Anna Carin Lock and Frederic Aspiras",House of Gucci,False
+2021,2022,94,MUSIC (Original Score),Nicholas Britell,Don't Look Up,False
+2021,2022,94,MUSIC (Original Score),Hans Zimmer,Dune,True
+2021,2022,94,MUSIC (Original Score),Germaine Franco,Encanto,False
+2021,2022,94,MUSIC (Original Score),Alberto Iglesias,Parallel Mothers,False
+2021,2022,94,MUSIC (Original Score),Jonny Greenwood,The Power of the Dog,False
+2021,2022,94,MUSIC (Original Song),Be Alive: Music and Lyric by DIXSON and Beyoncé Knowles-Carter,King Richard,False
+2021,2022,94,MUSIC (Original Song),Dos Oruguitas: Music and Lyric by Lin-Manuel Miranda,Encanto,False
+2021,2022,94,MUSIC (Original Song),Down To Joy: Music and Lyric by Van Morrison,Belfast,False
+2021,2022,94,MUSIC (Original Song),No Time To Die: Music and Lyric by Billie Eilish and Finneas O'Connell,No Time to Die,True
+2021,2022,94,MUSIC (Original Song),Somehow You Do: Music and Lyric by Diane Warren,Four Good Days,False
+2021,2022,94,BEST PICTURE,"Laura Berwick, Kenneth Branagh, Becca Kovacik and Tamar Thomas, Producers",Belfast,False
+2021,2022,94,BEST PICTURE,"Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger, Producers",CODA,True
+2021,2022,94,BEST PICTURE,"Adam McKay and Kevin Messick, Producers",Don't Look Up,False
+2021,2022,94,BEST PICTURE,"Teruhisa Yamamoto, Producer",Drive My Car,False
+2021,2022,94,BEST PICTURE,"Mary Parent, Denis Villeneuve and Cale Boyter, Producers",Dune,False
+2021,2022,94,BEST PICTURE,"Tim White, Trevor White and Will Smith, Producers",King Richard,False
+2021,2022,94,BEST PICTURE,"Sara Murphy, Adam Somner and Paul Thomas Anderson, Producers",Licorice Pizza,False
+2021,2022,94,BEST PICTURE,"Guillermo del Toro, J. Miles Dale and Bradley Cooper, Producers",Nightmare Alley,False
+2021,2022,94,BEST PICTURE,"Jane Campion, Tanya Seghatchian, Emile Sherman, Iain Canning and Roger Frappier, Producers",The Power of the Dog,False
+2021,2022,94,BEST PICTURE,"Steven Spielberg and Kristie Macosko Krieger, Producers",West Side Story,False
+2021,2022,94,PRODUCTION DESIGN,Production Design: Patrice Vermette; Set Decoration: Zsuzsanna Sipos,Dune,True
+2021,2022,94,PRODUCTION DESIGN,Production Design: Tamara Deverell; Set Decoration: Shane Vieau,Nightmare Alley,False
+2021,2022,94,PRODUCTION DESIGN,Production Design: Grant Major; Set Decoration: Amber Richards,The Power of the Dog,False
+2021,2022,94,PRODUCTION DESIGN,Production Design: Stefan Dechant; Set Decoration: Nancy Haigh,The Tragedy of Macbeth,False
+2021,2022,94,PRODUCTION DESIGN,Production Design: Adam Stockhausen; Set Decoration: Rena DeAngelo,West Side Story,False
+2021,2022,94,SHORT FILM (Animated),Joanna Quinn and Les Mills,Affairs of the Art,False
+2021,2022,94,SHORT FILM (Animated),Hugo Covarrubias and Tevo Díaz,Bestia,False
+2021,2022,94,SHORT FILM (Animated),Anton Dyakov,Boxballet,False
+2021,2022,94,SHORT FILM (Animated),Dan Ojari and Mikey Please,Robin Robin,False
+2021,2022,94,SHORT FILM (Animated),Alberto Mielgo and Leo Sanchez,The Windshield Wiper,True
+2021,2022,94,SHORT FILM (Live Action),Maria Brendle and Nadine Lüchinger,Ala Kachuu - Take and Run,False
+2021,2022,94,SHORT FILM (Live Action),Tadeusz Lysiak and Maciej Slesicki,The Dress,False
+2021,2022,94,SHORT FILM (Live Action),Aneil Karia and Riz Ahmed,The Long Goodbye,True
+2021,2022,94,SHORT FILM (Live Action),Martin Strange-Hansen and Kim Magnusson,On My Mind,False
+2021,2022,94,SHORT FILM (Live Action),K.D. Dávila and Levin Menekse,Please Hold,False
+2021,2022,94,SOUND,"Denise Yarde, Simon Chase, James Mather and Niv Adiri",Belfast,False
+2021,2022,94,SOUND,"Mac Ruth, Mark Mangini, Theo Green, Doug Hemphill and Ron Bartlett",Dune,True
+2021,2022,94,SOUND,"Simon Hayes, Oliver Tarney, James Harrison, Paul Massey and Mark Taylor",No Time to Die,False
+2021,2022,94,SOUND,"Richard Flynn, Robert Mackenzie and Tara Webb",The Power of the Dog,False
+2021,2022,94,SOUND,"Tod A. Maitland, Gary Rydstrom, Brian Chumney, Andy Nelson and Shawn Murphy",West Side Story,False
+2021,2022,94,VISUAL EFFECTS,"Paul Lambert, Tristan Myles, Brian Connor and Gerd Nefzer""",Dune,True
+2021,2022,94,VISUAL EFFECTS,"Swen Gillberg, Bryan Grill, Nikos Kalaitzidis and Dan Sudick""",Free Guy,False
+2021,2022,94,VISUAL EFFECTS,"Charlie Noble, Joel Green, Jonathan Fawkner and Chris Corbould""",No Time to Die,False
+2021,2022,94,VISUAL EFFECTS,"Christopher Townsend, Joe Farrell, Sean Noel Walker and Dan Oliver""",Shang-Chi and the Legend of the Ten Rings,False
+2021,2022,94,VISUAL EFFECTS,"Kelly Port, Chris Waegner, Scott Edelstein and Dan Sudick""",Spider-Man: No Way Home,False
+2021,2022,94,ADAPTED SCREENPLAY,Screenplay by Siân Heder,CODA,True
+2021,2022,94,ADAPTED SCREENPLAY,"Screenplay by Ryusuke Hamaguchi, Takamasa Oe",Drive My Car,False
+2021,2022,94,ADAPTED SCREENPLAY,Screenplay by Jon Spaihts and Denis Villeneuve and Eric Roth,Dune,False
+2021,2022,94,ADAPTED SCREENPLAY,Written by Maggie Gyllenhaal,The Lost Daughter,False
+2021,2022,94,ADAPTED SCREENPLAY,Written by Jane Campion,The Power of the Dog,False
+2021,2022,94,ORIGINAL SCREENPLAY,Written by Kenneth Branagh,Belfast,True
+2021,2022,94,ORIGINAL SCREENPLAY,Screenplay by Adam McKay; Story by Adam McKay & David Sirota,Don't Look Up,False
+2021,2022,94,ORIGINAL SCREENPLAY,Written by Zach Baylin,King Richard,False
+2021,2022,94,ORIGINAL SCREENPLAY,Written by Paul Thomas Anderson,Licorice Pizza,False
+2021,2022,94,ORIGINAL SCREENPLAY,"Written by Eskil Vogt, Joachim Trier",The Worst Person in the World,False

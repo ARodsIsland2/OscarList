@@ -10,6 +10,7 @@ require 'csv'
 # user our csv files to seed the models
 #  year_film, year_ceremony, ceremony, category, name, film, winner
 the_oscar_award_csv_text = File.read(Rails.root.join('lib', 'seeds', 'the_oscar_award_cleaner.csv'))
+#the_oscar_award_csv_text = File.read(Rails.root.join('lib', 'seeds', 'the_oscar_award_cleaner_short.csv'))
 the_oscar_award_csv = CSV.parse(the_oscar_award_csv_text, :headers => true, :encoding => 'ISO-8859-1')
 
 
@@ -52,4 +53,24 @@ film_list.each do |key, value|
   puts("> adding #{film_name}, #{film_year} (ceremony #{film_ceremony}) ")
   ceremony = Ceremony.find_by(ceremony: film_ceremony)
   ceremony.films.create(name: film_name, year: film_year)
+end
+
+
+# create nominations
+puts('seeding nomination table...')
+the_oscar_award_csv.each do |row|
+  
+  # only respect categories in our category table
+  category = Category.find_by(name: row['category'])
+  
+  if ( !category.nil? )
+    # only respect films in our film table
+    film = Film.find_by(name: row['film'])
+    
+    if ( !film.nil? )
+      puts("> adding #{category.name} nomination for #{film.name}")
+      film.nominations.create(nominee: row['name'], won: row['winner'], category: category)
+    end
+  end
+  
 end

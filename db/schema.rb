@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20220422164552) do
+ActiveRecord::Schema.define(version: 20220422200640) do
 
   create_table "categories", force: :cascade do |t|
     t.string   "name"
@@ -31,6 +31,15 @@ ActiveRecord::Schema.define(version: 20220422164552) do
     t.datetime "created_at",  null: false
     t.datetime "updated_at",  null: false
     t.integer  "ceremony_id"
+  end
+
+  create_table "nominations", force: :cascade do |t|
+    t.string   "nominee"
+    t.boolean  "won"
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
+    t.integer  "film_id"
+    t.integer  "category_id"
   end
 
 end
