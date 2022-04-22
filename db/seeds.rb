@@ -15,6 +15,7 @@ the_oscar_award_csv = CSV.parse(the_oscar_award_csv_text, :headers => true, :enc
 
 
 # create categories
+puts('seeding category table...')
 academy_defined_category_names = ['BEST PICTURE', 'ACTOR', 'ACTRESS', 'SUPPORTING ACTOR', 'SUPPORTING ACTRESS', 'DIRECTING', 'ORIGINAL SCREENPLAY', 'ADAPTED SCREENPLAY', 'CINEMATOGRAPHY', 'PRODUCTION DESIGN', 'EDITING', 'ORIGINAL SCORE', 'ORIGINAL SONG', 'COSTUME DESIGN', 'MAKEUP AND HAIRSTYLING', 'SOUND MIXING', 'SOUND EDITING', 'VISUAL EFFECTS', 'FOREIGN-LANGUAGE FILM', 'ANIMATED FEATURE FILM', 'ANIMATED SHORT', 'LIVE-ACTION SHORT', 'DOCUMENTARY FEATURE', 'DOCUMENTARY SHORT']
 
 academy_defined_category_names.each do |category_name|
@@ -23,6 +24,7 @@ end
 
 
 # create ceremonies
+puts('seeding ceremony table...')
 ceremony_list = {}
 the_oscar_award_csv.each do |row|
   ceremony_list[row['ceremony']] = row['year_ceremony']
@@ -34,15 +36,20 @@ end
 
 
 # create films
+puts('seeding film table...')
 film_list = {}
 the_oscar_award_csv.each do |row|
-  film_list[row['film'].to_s()] = {:num=>row['ceremony'], :year=>row['year_film'] }
+  film_name = row['film']
+  if ( !film_name.nil? && film_name.length > 0 )
+    film_list[film_name] = {:num=>row['ceremony'], :year=>row['year_film']}
+  end
 end
 
 film_list.each do |key, value|
   film_name = key
   film_year = value[:year]
-  #ceremony_id = Ceremony.find_by(value[:num])
-  #Film.create(name: film_name, year: film_year, ceremony_id: ceremony_id)
-  Film.create(name: film_name, year: film_year)
+  film_ceremony = value[:num]
+  puts("> adding #{film_name}, #{film_year} (ceremony #{film_ceremony}) ")
+  ceremony = Ceremony.find_by(ceremony: film_ceremony)
+  ceremony.films.create(name: film_name, year: film_year)
 end

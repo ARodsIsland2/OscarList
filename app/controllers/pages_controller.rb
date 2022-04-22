@@ -31,9 +31,6 @@ class PagesController < ApplicationController
       end
     end
     
-    
-    @film_list = Film.all
-    
   end
 
 end

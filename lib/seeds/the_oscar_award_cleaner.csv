@@ -5,9 +5,9 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1927,1928,1,ACTRESS,Janet Gaynor,7th Heaven,True
 1927,1928,1,ACTRESS,Gloria Swanson,Sadie Thompson,False
 1927,1928,1,ART DIRECTION,Rochus Gliese,Sunrise,False
-1927,1928,1,ART DIRECTION,William Cameron Menzies,The Dove;,True
+1927,1928,1,ART DIRECTION,William Cameron Menzies,The Dove,True
 1927,1928,1,ART DIRECTION,Harry Oliver,7th Heaven,False
-1927,1928,1,CINEMATOGRAPHY,George Barnes,The Devil Dancer;,False
+1927,1928,1,CINEMATOGRAPHY,George Barnes,The Devil Dancer,False
 1927,1928,1,CINEMATOGRAPHY,Charles Rosher,Sunrise,True
 1927,1928,1,CINEMATOGRAPHY,Karl Struss,Sunrise,True
 1927,1928,1,DIRECTING,Lewis Milestone,Two Arabian Knights,True
@@ -48,30 +48,30 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1928,1929,2,ART DIRECTION,Hans Dreier,The Patriot,False
 1928,1929,2,ART DIRECTION,Cedric Gibbons,The Bridge of San Luis Rey,True
 1928,1929,2,ART DIRECTION,Mitchell Leisen,Dynamite,False
-1928,1929,2,ART DIRECTION,William Cameron Menzies,Alibi;,False
+1928,1929,2,ART DIRECTION,William Cameron Menzies,Alibi,False
 1928,1929,2,ART DIRECTION,Harry Oliver,Street Angel,False
 1928,1929,2,CINEMATOGRAPHY,George Barnes,Our Dancing Daughters,False
 1928,1929,2,CINEMATOGRAPHY,Clyde De Vinna,White Shadows in the South Seas,True
 1928,1929,2,CINEMATOGRAPHY,Arthur Edeson,In Old Arizona,False
-1928,1929,2,CINEMATOGRAPHY,Ernest Palmer,Four Devils;,False
+1928,1929,2,CINEMATOGRAPHY,Ernest Palmer,Four Devils,False
 1928,1929,2,CINEMATOGRAPHY,John Seitz,The Divine Lady,False
 1928,1929,2,DIRECTING,Lionel Barrymore,Madame X,False
 1928,1929,2,DIRECTING,Harry Beaumont,The Broadway Melody,False
 1928,1929,2,DIRECTING,Irving Cummings,In Old Arizona,False
 1928,1929,2,DIRECTING,Frank Lloyd,The Divine Lady,True
-1928,1929,2,DIRECTING,Frank Lloyd,Drag;,False
+1928,1929,2,DIRECTING,Frank Lloyd,Drag,False
 1928,1929,2,DIRECTING,Ernst Lubitsch,The Patriot,False
 1928,1929,2,BEST PICTURE,Feature Productions,Alibi,False
 1928,1929,2,BEST PICTURE,Fox,In Old Arizona,False
 1928,1929,2,BEST PICTURE,Metro-Goldwyn-Mayer,The Broadway Melody,True
 1928,1929,2,BEST PICTURE,Metro-Goldwyn-Mayer,Hollywood Revue,False
 1928,1929,2,BEST PICTURE,Paramount Famous Lasky,The Patriot,False
-1928,1929,2,WRITING,Tom Barry,In Old Arizona;,False
-1928,1929,2,WRITING,Elliott Clawson,The Cop;,False
+1928,1929,2,WRITING,Tom Barry,In Old Arizona,False
+1928,1929,2,WRITING,Elliott Clawson,The Cop,False
 1928,1929,2,WRITING,Hans Kraly,The Last of Mrs. Cheyney,False
 1928,1929,2,WRITING,Hans Kraly,The Patriot,True
 1928,1929,2,WRITING,Josephine Lovett,Our Dancing Daughters,False
-1928,1929,2,WRITING,Bess Meredyth,A Woman of Affairs;,False
+1928,1929,2,WRITING,Bess Meredyth,A Woman of Affairs,False
 1929,1930,3,ACTOR,George Arliss,Disraeli,True
 1929,1930,3,ACTOR,George Arliss,The Green Goddess,False
 1929,1930,3,ACTOR,Wallace Beery,The Big House,False
@@ -94,7 +94,7 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1929,1930,3,CINEMATOGRAPHY,"(Gaetano Gaudio), (Harry Perry)",Hell's Angels,False
 1929,1930,3,CINEMATOGRAPHY,(Victor Milner),The Love Parade,False
 1929,1930,3,CINEMATOGRAPHY,"Joseph T. Rucker, Willard Van Der Veer",With Byrd at the South Pole,True
-1929,1930,3,DIRECTING,Clarence Brown,Anna Christie;,False
+1929,1930,3,DIRECTING,Clarence Brown,Anna Christie,False
 1929,1930,3,DIRECTING,Robert Leonard,The Divorcee,False
 1929,1930,3,DIRECTING,Ernst Lubitsch,The Love Parade,False
 1929,1930,3,DIRECTING,Lewis Milestone,All Quiet on the Western Front,True
@@ -352,11 +352,11 @@ year_film,year_ceremony,ceremony,category,name,film,winner
 1935,1936,8,CINEMATOGRAPHY,Gregg Toland,Les Miserables,False
 1935,1936,8,CINEMATOGRAPHY,Hal Mohr,A Midsummer Night's Dream,True
 1935,1936,8,DANCE DIRECTION,Busby Berkeley,Gold Diggers of 1935,False
-1935,1936,8,DANCE DIRECTION,Bobby Connolly,Go into Your Dance;,False
-1935,1936,8,DANCE DIRECTION,Dave Gould,Broadway Melody of 1936;,True
+1935,1936,8,DANCE DIRECTION,Bobby Connolly,Go into Your Dance,False
+1935,1936,8,DANCE DIRECTION,Dave Gould,Broadway Melody of 1936,True
 1935,1936,8,DANCE DIRECTION,Sammy Lee,King of Burlesque,False
 1935,1936,8,DANCE DIRECTION,Hermes Pan,Top Hat,False
-1935,1936,8,DANCE DIRECTION,LeRoy Prinz,Big Broadcast of 1936;,False
+1935,1936,8,DANCE DIRECTION,LeRoy Prinz,Big Broadcast of 1936,False
 1935,1936,8,DANCE DIRECTION,Benjamin Zemach,She,False
 1935,1936,8,DIRECTING,Michael Curtiz,Captain Blood,False
 1935,1936,8,DIRECTING,John Ford,The Informer,True
