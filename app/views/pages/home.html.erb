@@ -14,7 +14,13 @@
         <!-- display nomination list for that film -->
         <ul><small>
           <% film.nominations.each do |nomination| %>
-            <li><%= nomination.category.name %> (<%= nomination.nominee %>)</li>
+
+            <li>
+              <% if nomination.won %>
+                ★ 
+              <% end %>
+              <%= nomination.category.name %> (<%= nomination.nominee %>)
+            </li>
           <% end %>
         </ul></small>
         <br>

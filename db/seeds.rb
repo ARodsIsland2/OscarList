@@ -73,7 +73,8 @@ the_oscar_award_csv.each do |row|
     
     if ( !film.nil? )
       puts("> adding #{category.name} nomination for #{film.name}")
-      film.nominations.create(nominee: row['name'], won: row['winner'], category: category)
+      won = (row['winner'] == "True")
+      film.nominations.create(nominee: row['name'], won: won, category: category)
     end
   end
   
