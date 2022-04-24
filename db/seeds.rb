@@ -40,9 +40,13 @@ end
 puts('seeding film table...')
 film_list = {}
 the_oscar_award_csv.each do |row|
-  film_name = row['film']
-  if ( !film_name.nil? && film_name.length > 0 )
-    film_list[film_name] = {:num=>row['ceremony'], :year=>row['year_film']}
+  # only respect categories in our category table
+  category = Category.find_by(name: row['category'])
+  if ( !category.nil? )
+    film_name = row['film']
+    if ( !film_name.nil? && film_name.length > 0 )
+      film_list[film_name] = {:num=>row['ceremony'], :year=>row['year_film']}
+    end
   end
 end
 
