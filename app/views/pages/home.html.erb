@@ -3,9 +3,12 @@
 
   <h1>OscarList</h1>
   
+  <% if user_signed_in? %>
+    <p>signed in as <%= current_user.email %><br></p>
+  <% end %>
   
   <!-- display ceremony year -->
-  <% @ceremony_list.each do |ceremony| %>
+  <% @ceremony_list.includes(films: { nominations: [:category] }).each do |ceremony| %>
   
     <div class="well">
       <h2><%= ceremony.year %></h2>
