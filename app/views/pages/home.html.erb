@@ -15,12 +15,16 @@
   
       <!-- display film list for that year -->
         <% ceremony.films.each do |film| %>
-          <h4><%= film.name %></h4>
+        
+          <h4>
+          <input id="film_#{film.id}" name="film_#{film.id}" type="checkbox" value="0" />
+          <%= film.name %>
+          </h4>
 
           <!-- display nomination list for that film -->
           <ul><small>
             <% film.nominations.each do |nomination| %>
-  
+            
               <li>
                 <% if nomination.won %>
                   ★ 
