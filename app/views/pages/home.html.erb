@@ -1,30 +1,34 @@
-<h1>OscarList</h1>
 
+<div class="container">
 
-<!-- display ceremony year -->
-<% @ceremony_list.each do |ceremony| %>
-
-  <div>
-    <h2><%= ceremony.year %></h2>
-
-    <!-- display film list for that year -->
-      <% ceremony.films.each do |film| %>
-        <h3><%= film.name %></h3>
-        
-        <!-- display nomination list for that film -->
-        <ul><small>
-          <% film.nominations.each do |nomination| %>
-
-            <li>
-              <% if nomination.won %>
-                ★ 
-              <% end %>
-              <%= nomination.category.name %> (<%= nomination.nominee %>)
-            </li>
-          <% end %>
-        </ul></small>
-        <br>
-      <% end %>
-  </div>
+  <h1>OscarList</h1>
   
-<% end %>
+  
+  <!-- display ceremony year -->
+  <% @ceremony_list.each do |ceremony| %>
+  
+    <div class="well">
+      <h2><%= ceremony.year %></h2>
+  
+      <!-- display film list for that year -->
+        <% ceremony.films.each do |film| %>
+          <h4><%= film.name %></h4>
+
+          <!-- display nomination list for that film -->
+          <ul><small>
+            <% film.nominations.each do |nomination| %>
+  
+              <li>
+                <% if nomination.won %>
+                  ★ 
+                <% end %>
+                <%= nomination.category.name %> (<%= nomination.nominee %>)
+              </li>
+            <% end %>
+          </ul></small>
+          <br>
+        <% end %>
+    </div>
+  <% end %>
+
+</div>
