@@ -9,6 +9,43 @@
   </head>
 
   <body>
+    <nav class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class='container'>
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <%= link_to root_path, class: "navbar-brand" do %>
+            <i class="fa fa-film"></i>
+            OscarList
+          <% end %>
+        </div>
+        <div class="collapse navbar-collapse" id="main-nav-collapse">
+          <div class="nav navbar-nav navbar-right">
+            <% if user_signed_in? %>
+              <%= link_to "Log Out", destroy_user_session_path, method: :delete, class: "btn btn-default navbar-btn" %>
+            <% else %>
+              <%= link_to "Log In", new_user_session_path, class: "btn btn-default navbar-btn" %>
+            <% end %>
+          </div>
+          <ul class="nav navbar-nav navbar-right">
+            <% if user_signed_in? %>
+              <li><%= link_to "signed in as #{current_user.email}", edit_user_registration_path %></li>
+            <% end %>
+           </ul>
+        </div><!-- /.navbar-collapse -->
+      </div>
+    </nav>
+
+    <div class="container flash-container">
+      <% flash.each do |type, msg| %>
+        <%= content_tag :div, msg, class: "alert alert-#{type}" %>
+      <% end %>
+    </div>
     <%= yield %>
+
   </body>
 </html>

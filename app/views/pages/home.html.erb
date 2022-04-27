@@ -1,25 +1,23 @@
 
+
+<br><br><br>
+
 <div class="container">
 
-  <h1>OscarList</h1>
-  
-  <% if user_signed_in? %>
-    <p>signed in as <%= current_user.email %><br></p>
-  <% end %>
-  
   <!-- display ceremony year -->
   <% @ceremony_list.includes(films: { nominations: [:category] }).each do |ceremony| %>
   
     <div class="well">
-      <h2><%= ceremony.year %></h2>
-  
-      <!-- display film list for that year -->
+      <h3><%= ceremony.year %></h3>
+      <br>
+      <div>
+        <!-- display film list for that year -->
         <% ceremony.films.each do |film| %>
         
-          <h4>
+          <h5>
           <input id="film_#{film.id}" name="film_#{film.id}" type="checkbox" value="0" />
           <%= film.name %>
-          </h4>
+          </h5>
 
           <!-- display nomination list for that film -->
           <ul><small>
@@ -35,6 +33,7 @@
           </ul></small>
           <br>
         <% end %>
+      </div>
     </div>
   <% end %>
 
