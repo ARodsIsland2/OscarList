@@ -5,6 +5,10 @@ class PagesController < ApplicationController
 
   def home
     
+    if user_signed_in?
+      current_user.films << Film.where(id: 1);
+    end
+    
     # academy-defined categories
     #@academy_defined_categories = ["BEST PICTURE", "ACTOR", "ACTRESS", "SUPPORTING ACTOR", "SUPPORTING ACTRESS", "DIRECTING", "ORIGINAL SCREENPLAY", "ADAPTED SCREENPLAY", "CINEMATOGRAPHY", "PRODUCTION DESIGN", "EDITING", "ORIGINAL SCORE", "ORIGINAL SONG", "COSTUME DESIGN", "MAKEUP AND HAIRSTYLING", "SOUND MIXING", "SOUND EDITING", "VISUAL EFFECTS", "FOREIGN-LANGUAGE FILM", "ANIMATED FEATURE FILM", "ANIMATED SHORT", "LIVE-ACTION SHORT", "DOCUMENTARY FEATURE", "DOCUMENTARY SHORT"]
     @academy_defined_categories = Category.all

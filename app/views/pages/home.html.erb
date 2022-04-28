@@ -1,6 +1,10 @@
 
 
-<br><br><br>
+<div class="home-callout text-center container-fluid">
+  <% if user_signed_in? %>
+    <li><%= current_user.films(1).inspect %></li>
+  <% end %>
+</div>
 
 <div class="container">
 
@@ -15,7 +19,7 @@
         <% ceremony.films.each do |film| %>
         
           <h5>
-          <input id="film_#{film.id}" name="film_#{film.id}" type="checkbox" value="0" />
+          <input id="film_<%= film.id %>" name="film_<%= film.id %>" type="checkbox" value="0" />
           <%= film.name %>
           </h5>
 

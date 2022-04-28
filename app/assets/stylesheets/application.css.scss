@@ -19,6 +19,52 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
+// Nav syles
+.navbar {
+  border: none;
+}
+
+// Background gradient
+//.home-callout, .navbar {
+//  // Gradient provided by @_ighosh at uiGradients.com
+//  background: #56CCF2;  /* fallback for old browsers */
+//  background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2);  /* Chrome 10-25, Safari 5.1-6 */
+//  background: linear-gradient(to right, #2F80ED, #56CCF2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+//}
+
+//.navbar-brand {
+//  font-family: 'Open Sans', sans-serif;
+//  font-weight: 800;
+//}
+
+//.navbar-default .navbar-brand,
+//.navbar-default .navbar-nav > li > a {
+//  color: white;
+//  &:hover {
+//    color: white;
+//    opacity: 0.75;
+//  }
+//}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
+}
+
+.navbar-default .navbar-toggle {
+  border: 2px solid white;
+  &:hover, &:focus {
+    background-color: #56CCF8;
+  }
+}
+
+// Home page styles
+.home-callout {
+  color: black;
+  margin-top: -20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 .flash-container {
   position: absolute;
   width: 100%;
