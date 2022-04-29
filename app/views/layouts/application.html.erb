@@ -33,7 +33,13 @@
           </div>
           <ul class="nav navbar-nav navbar-right">
             <% if user_signed_in? %>
-              <li><%= link_to "signed in as #{current_user.email}", edit_user_registration_path %></li>
+              <li>
+                <% if current_user.profile %>
+                  <%= link_to "signed in as #{current_user.profile.nickname} (#{current_user.email})", edit_user_registration_path %>
+                <% else %>
+                  <%= link_to "signed in as #{current_user.email}", edit_user_registration_path %>
+                <% end %>
+              </li>
             <% end %>
            </ul>
         </div><!-- /.navbar-collapse -->
