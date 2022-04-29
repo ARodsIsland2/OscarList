@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20220428012104) do
+ActiveRecord::Schema.define(version: 20220429174212) do
 
   create_table "categories", force: :cascade do |t|
     t.string   "name"
@@ -33,12 +33,6 @@ ActiveRecord::Schema.define(version: 20220428012104) do
     t.integer  "ceremony_id"
   end
 
-  create_table "films_users", id: false, force: :cascade do |t|
-    t.integer "user_id", null: false
-    t.integer "film_id", null: false
-    t.index ["user_id", "film_id"], name: "index_films_users_on_user_id_and_film_id"
-  end
-
   create_table "nominations", force: :cascade do |t|
     t.string   "nominee"
     t.boolean  "won"
@@ -46,6 +40,11 @@ ActiveRecord::Schema.define(version: 20220428012104) do
     t.datetime "updated_at",  null: false
     t.integer  "film_id"
     t.integer  "category_id"
+  end
+
+  create_table "profiles", force: :cascade do |t|
+    t.integer "user_id"
+    t.string  "nickname"
   end
 
   create_table "users", force: :cascade do |t|

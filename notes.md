@@ -27,10 +27,13 @@ category_id
 film_id
 
 
+// create new branch
+git checkout -b new_branch_name
+
 // merging from branch to master, then pushing to production
 git checkout master
 git branch
-git merge contact_form
+git merge working_branch_name
 git push origin master
 git push heroku master
 
