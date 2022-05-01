@@ -6,6 +6,20 @@
   
 </div>
 
+
+
+<div>
+  <% if user_signed_in? && current_user.profile %>
+    <% current_user.profile.films.each do |film| %>
+    
+      <%= film.name %><br>
+    
+    <% end %>
+  
+  <% end %>
+</div>        
+
+
 <div class="container">
 
   <!-- display ceremony year -->

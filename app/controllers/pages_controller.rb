@@ -8,7 +8,7 @@ class PagesController < ApplicationController
     if user_signed_in?
       #current_user.films.clear
       #a_film = Film.where(id: 1)
-      #current_user.films.push(a_film)
+      #current_user.profile.films.push(a_film)
     end
     
     # academy-defined categories
