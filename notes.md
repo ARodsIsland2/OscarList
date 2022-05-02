@@ -45,3 +45,8 @@ heroku run rails db:migrate
 heroku run rails db:seed
 OR TO DO BOTH...
 heroku run rails db:setup
+
+
+// good checkbox tutorial
+https://www.video-index.com/en/ruby-on-rails/english/ruby-on-rails-tutorial-building-a-checklist#/add-mark-as-complete-functionality-rails-generate-migration-addcompletedattoitems-completedatdatetim
+
